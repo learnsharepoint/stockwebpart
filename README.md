@@ -1,6 +1,6 @@
 ## stockwebpart
 
-This is where you include your WebPart documentation.
+Stock WebPart is a SPFx WebPart to Display Company Stock Information
 
 ### Building the code
 
